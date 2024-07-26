@@ -13,3 +13,7 @@ def multiplicacion (a, b):
 def division (a, b):
     mini_division = a / b
     return mini_division
+
+def potenciacion(a, b):
+    mini_potenciacion = a ** b
+    return mini_potenciacion
