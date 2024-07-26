@@ -9,3 +9,7 @@ def resta(a, b):
 def multiplicacion (a, b):
     mini_multiplicacion = a * b
     return mini_multiplicacion
+
+def division (a, b):
+    mini_division = a / b
+    return mini_division
