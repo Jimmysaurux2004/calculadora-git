@@ -5,3 +5,7 @@ def suma(a, b):
 def potenciacion(a, b):
     mini_potenciacion = a ** b
     return mini_potenciacion
+
+def radicacion(a, b):
+    mini_potenciacion = pow(a, (1/b))
+    return mini_potenciacion
